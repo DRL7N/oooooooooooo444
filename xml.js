@@ -11,4 +11,4 @@ function join() {
     }
 );
 }
-setInterval(join,60000);
+setInterval(join,3500);
